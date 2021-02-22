@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Marina
-- 🌱 I’m currently learning to code
+![Cover](https://github.com/MarinaGaribotti/MarinaGaribotti/blob/main/hello.png)
 
 <!---
 MarinaGaribotti/MarinaGaribotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
